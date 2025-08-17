@@ -10,3 +10,4 @@ The list include:
 - Fold
 - Edit
 - Calc
+- Draw
