@@ -8,3 +8,4 @@ The list include:
 - Termina
 - Module Module
 - Fold
+- Edit
