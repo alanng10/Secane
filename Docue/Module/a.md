@@ -9,3 +9,4 @@ The list include:
 - Module Module
 - Fold
 - Edit
+- Calc
