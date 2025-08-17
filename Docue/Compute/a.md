@@ -15,3 +15,4 @@ The operate kind include:
 - inn port
 - halt
 - end main
+- restart main
