@@ -9,3 +9,7 @@ The operate kind include:
 - interen ret
 - interen ret memory index move
 - interen ret memory index move to
+- interen arg A move
+- interen arg B move
+- out port
+- inn port
