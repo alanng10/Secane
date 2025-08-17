@@ -4,7 +4,7 @@ Secane has Class Lang module list avail.
 
 The list include:
 
-Tool
-Termina
-Module Module
-Fold
+- Tool
+- Termina
+- Module Module
+- Fold
