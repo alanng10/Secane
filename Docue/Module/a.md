@@ -12,5 +12,6 @@ The list include:
 - Calc
 - Draw
 - Play
-- Gallery
+- View
 - Date
+- Mail
