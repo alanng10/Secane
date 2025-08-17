@@ -59,3 +59,12 @@ Secane is One System.
 Secane is System with alpha multi task.
 
 Secane is machane.
+
+Secane word has spell.
+The spell is:
+"S" for System All.
+"e" for effect.
+"c" for class kind.
+"a" for any class.
+"n" for each client.
+"e" for tool.
