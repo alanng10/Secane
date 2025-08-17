@@ -14,3 +14,4 @@ The operate kind include:
 - out port
 - inn port
 - halt
+- end main
