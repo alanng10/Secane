@@ -11,4 +11,5 @@ The list include:
 - Edit
 - Calc
 - Draw
+- Play
 - Gallery
