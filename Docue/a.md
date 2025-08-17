@@ -53,3 +53,5 @@ Secane has park mark.
 Secane has park cross.
 
 Secane has major.
+
+Secane is One System.
