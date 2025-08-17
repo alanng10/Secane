@@ -13,3 +13,4 @@ The operate kind include:
 - interen arg B move
 - out port
 - inn port
+- halt
