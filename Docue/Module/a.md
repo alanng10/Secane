@@ -13,3 +13,4 @@ The list include:
 - Draw
 - Play
 - Gallery
+- Date
