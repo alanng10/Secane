@@ -11,3 +11,4 @@ The list include:
 - Edit
 - Calc
 - Draw
+- Gallery
