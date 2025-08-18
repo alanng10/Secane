@@ -16,3 +16,5 @@ The list include:
 - Date
 - Mail
 - Press
+
+Fold is fold page.
