@@ -22,3 +22,7 @@ in count of 64 kilo byte block.
 
 Secane require has Compute.
 Compute speed is 1.4 tera Mov operate per second minimum.
+
+Secane require has Network.
+Network Internet send speed is 2.8 mega byte per second minimum.
+Network Internet cive speed is 2.8 mega byte per second minimum.
