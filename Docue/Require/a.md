@@ -5,6 +5,9 @@ Secane has require.
 Secane require has Type.
 Type is Type Board only.
 
+Secane require has Time.
+Time has event that is granularity of 1 milli second.
+
 Secane require has Video.
 Video is 4096 wed time 2304 het pixel.
 Video aspect ratio in dimen is same as aspect ratio in pixel.
