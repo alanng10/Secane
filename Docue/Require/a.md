@@ -16,4 +16,6 @@ Secane require has Memory.
 Memory is 64 giga byte minimum.
 
 Secane require has Storage.
-Storage is 128 2 base giga byte minimum.
+Storage capacity is 128 2 base giga byte minimum.
+Storage read speed and write speed is 8 mega byte per milli second minimum,
+in count of 64 kilo byte block.
