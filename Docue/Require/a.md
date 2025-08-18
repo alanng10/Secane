@@ -7,6 +7,7 @@ Type is Type Board only.
 
 Secane require has Time.
 Time has event that is granularity of 1 milli second.
+Time has get current date with inn port and out port Compute operate only.
 
 Secane require has Video.
 Video is 4096 wed time 2304 het pixel.
