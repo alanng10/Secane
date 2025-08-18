@@ -21,4 +21,4 @@ Storage read speed and write speed is 10.4 giga byte per second minimum,
 in count of 64 kilo byte block.
 
 Secane require has Compute.
-Compute has speed is 1.4 tera Mov operate per second.
+Compute speed is 1.4 tera Mov operate per second minimum.
