@@ -15,3 +15,4 @@ The list include:
 - View
 - Date
 - Mail
+- Press
