@@ -14,3 +14,6 @@ Video dimen wed for mobile is 141.732 mm.
 
 Secane require has Memory.
 Memory is 64 giga byte minimum.
+
+Secane require has Storage.
+Storage is 128 2 base giga byte minimum.
