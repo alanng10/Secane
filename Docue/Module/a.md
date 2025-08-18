@@ -12,7 +12,7 @@ The list include:
 - Calc
 - Draw
 - Play
-- View
+- Gallery
 - Date
 - Mail
 - Press
