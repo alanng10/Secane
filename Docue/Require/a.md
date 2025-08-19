@@ -6,7 +6,7 @@ Secane require has Type.
 Type is Type Board only.
 
 Secane require has Time.
-Time has event that is granularity of 1 milli second.
+Time has event that is grain of 1 milli second.
 Time has get current date with inn port and out port Compute operate only.
 
 Secane require has Video.
