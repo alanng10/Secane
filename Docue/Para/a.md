@@ -1,3 +1,3 @@
-# Paradise
+# Para
 
-Paradise is all cive with Secane.
+Para is all cive with Secane.
