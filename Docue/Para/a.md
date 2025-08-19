@@ -15,3 +15,5 @@ The base tool unit is
 1 human with only enough cloth and editor and termina and Class Lang require including USB port and no other tool tool
 1 module tool that output what is written in a text file in console, with heap
 execute certain abstract and effect load execute certain abstract.
+
+Para tool worth is total tool worth of all module execute able by Secane.
