@@ -8,3 +8,5 @@ The require is 4096 compute with 800 giga Mov operate
 per second.
 
 Paralel tool remain Memory.
+
+Paralel effect has call stack prac config.
