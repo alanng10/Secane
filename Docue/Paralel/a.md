@@ -9,4 +9,4 @@ per second.
 
 Paralel tool remain Memory.
 
-Paralel effect has call stack practic config.
+Paralel effect has call stack size practic config.
