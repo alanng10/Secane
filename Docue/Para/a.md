@@ -11,7 +11,7 @@ Para has tool worth.
 Tool worth is quadratic of total abstract opacity,
 relate to 1 base tool unit.
 
-The base tool unit is 
+The base tool unit is
 1 human with only enough cloth and editor and termina and Class Lang require
 including USB port and no other tool tool 1 module tool
 that output what is written in a text file in console, with heap
