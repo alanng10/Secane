@@ -5,8 +5,10 @@ Effect kind is same as System.
 
 Effect kind Type is Type Board only.
 
-Secane has none touch screen.
+Effect kind is same for desktop, laptop and mobile.
 
-Secane has none camera.
+Effect has none touch screen.
 
-Secane has none sensor built.
+Effect has none camera.
+
+Effect has none sensor.
