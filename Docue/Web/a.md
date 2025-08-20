@@ -10,6 +10,10 @@ Web browser has Javascript system.
 Web browser has Class Lang System.
 The System is config with practic.
 
+Tool module list and media module list and dependant module is avail
+to be import by module that is execute by the System.
+Those module list is entire same as get from Module Module.
+
 Web browser is inn with Type Board.
 
 Browser inn to trigg browser is with type index.
