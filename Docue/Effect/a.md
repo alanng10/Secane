@@ -11,4 +11,6 @@ Effect has none touch screen.
 
 Effect has none camera.
 
+Effect has none microphone.
+
 Effect has none sensor.
