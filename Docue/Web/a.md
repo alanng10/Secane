@@ -2,6 +2,11 @@
 
 Secane has web browser to execute web module.
 
+Web browser has Javascript system.
+
+Web browser has Class Lang System.
+The System is config with practic.
+
 Web browser is inn with Type Board.
 
 Browser inn to trigg browser is with type index.
