@@ -25,3 +25,5 @@ Class Lang module.
 
 This module kind can present type index with Type Board alpha Index button
 like any Class Lang module.
+
+Browser Class Lang System execute entry module that is get from Internet Uri.
