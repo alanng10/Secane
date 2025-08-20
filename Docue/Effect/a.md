@@ -14,3 +14,5 @@ Effect has none camera.
 Effect has none microphone.
 
 Effect has none sensor.
+
+Extern effect is by Secane Auto.
