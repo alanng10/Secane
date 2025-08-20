@@ -10,7 +10,7 @@ Web browser has Javascript system.
 Web browser has Class Lang System.
 The System is config with practic.
 
-Tool module list and media module list and dependent module is avail
+Tool module list and media module list and dependent module list is avail
 to be import by module that is execute by the System.
 Those module list is entire same as get from Module Module.
 
