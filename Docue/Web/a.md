@@ -11,4 +11,4 @@ trigg pointer click with Type Board index that will trigg mouse event,
 and with trigg keyboard input by Type Board index that will trigg
 keyboard event.
 
-Mouse trigg and keyboard trigg is mode switch able by Type Board index.
+Browser mouse trigg and keyboard trigg is mode switch able by Type Board index.
