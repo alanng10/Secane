@@ -2,6 +2,9 @@
 
 Secane has web browser to execute web module.
 
+Web browser plat is for module that is not effecon to be add
+with Module Module.
+
 Web browser has Javascript system.
 
 Web browser has Class Lang System.
