@@ -20,8 +20,8 @@ keyboard event.
 Browser mouse trigg and keyboard trigg is mode switch able by Type Board index.
 
 For Class Lang module for web browser,
-browser inn within module frame is trigg with Type Board index like any Class Lang
-module.
+browser inn within module frame is trigg with Type Board index like any
+Class Lang module.
 
 This module kind can present type index with Type Board alpha Index button
 like any Class Lang module.
