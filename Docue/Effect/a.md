@@ -1,6 +1,6 @@
 # Effect
 
-Secane has effect.
+Secane has built effect.
 Effect kind is same as System.
 
 Effect kind Type is Type Board only.
