@@ -1,6 +1,6 @@
 # Auto
 
-Secane has Secane Auto.
+Secane has Auto.
 
 Secane Auto is define as Auto that is extern to Secane.
 
