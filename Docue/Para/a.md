@@ -17,6 +17,6 @@ including USB port and no other tool tool 1 module tool
 that output what is written in a text file in console, with heap
 execute certain abstract and effect load execute certain abstract.
 
-Para tool worth is total tool worth of all module execute able by Secane.
+Para tool worth is total tool worth of all module execute able by Secane. 
 
-Module include Class Lang module and Single Lang module.
+Module is Class Lang module.
