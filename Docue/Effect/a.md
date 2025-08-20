@@ -5,4 +5,4 @@ Effect kind is same as System.
 
 Effect kind Type is Type Board only.
 
-Secane mobile has none sensor.
+Secane mobile has none sensor built.
