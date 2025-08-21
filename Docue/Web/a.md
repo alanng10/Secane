@@ -19,7 +19,7 @@ Web browser is inn with Type Board.
 
 Browser inn to trigg browser is with type index.
 
-For Javascript module, 
+For Javascript module,
 browser inn within program frame is implem with moving pointer cursor and
 trigg pointer click and scroll with Type Board index that will trigg mouse event, 
 and with trigg keyboard input by Type Board index that will trigg
