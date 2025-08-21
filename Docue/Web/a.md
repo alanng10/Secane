@@ -37,3 +37,5 @@ The System then execute entry module as declared in the network response at the 
 The execution is a web program.
 
 Web program may not shown any view frame.
+
+Web program alway has console out, err and inn.
