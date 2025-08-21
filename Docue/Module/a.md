@@ -27,7 +27,7 @@ The permit is not mod able.
 
 The module list is list as built in Module Module.
 
-Secane has Single Lang module list avail.
+Secane has Single Lang module list avail for import.
 
 The list include:
 
