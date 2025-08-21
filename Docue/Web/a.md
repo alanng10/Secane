@@ -18,7 +18,7 @@ Web browser is inn with Type Board.
 Browser inn to trigg browser is with type index.
 
 For Javascript module, 
-browser inn within module frame is implem with moving pointer cursor and
+browser inn within program frame is implem with moving pointer cursor and
 trigg pointer click and scroll with Type Board index that will trigg mouse event, 
 and with trigg keyboard input by Type Board index that will trigg
 keyboard event.
@@ -26,7 +26,7 @@ keyboard event.
 Browser mouse trigg and keyboard trigg is mode switch able by Type Board index.
 
 For Class Lang module for web browser,
-browser inn within module frame is trigg with Type Board index like any
+browser inn within program frame is trigg with Type Board index like any
 Class Lang module.
 
 This module kind can present type index with Type Board alpha Index button
@@ -54,6 +54,6 @@ Web program main arg is from 1 query string param in Uri.
 
 Web program shown status in console inf it exit.
 Console is view able when it exit and after it exit.
-Console is close inf the browser close the module frame.
+Console is close inf the browser close the program frame.
 
 The Uri tool https protocol.
