@@ -43,3 +43,5 @@ Web program alway has console.
 Web program alway has console out, err and inn.
 
 Web program console alway view able.
+
+Web program that has not shown any view frame, shown console by default.
