@@ -51,5 +51,7 @@ Web program that has not shown any view frame, shown console by default.
 Web program main arg is from 1 query string param in Uri.
 
 Web program shown status in console inf it exit.
+Console is view able when it exit and after it exit.
+Console is close inf the browser close the module frame.
 
 The Uri tool https protocol.
