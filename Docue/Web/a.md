@@ -13,6 +13,8 @@ Tool module list and dependent module list is avail
 to be import by module that is execute by the System.
 Those module list is entire same as get from Module Module.
 
+Web browser program frame is for shown execution view.
+
 Web browser is inn with Type Board.
 
 Browser inn to trigg browser is with type index.
