@@ -27,9 +27,6 @@ keyboard event.
 
 Browser mouse trigg and keyboard trigg is mode switch able by Type Board index.
 
-Browser keyboard mode has over lay to shown button to inn keyboard key that
-is not in Type Board index.
-
 For Class Lang module for web browser,
 browser inn within program frame is trigg with Type Board index like any
 Class Lang module.
