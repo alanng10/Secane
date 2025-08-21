@@ -32,8 +32,9 @@ Class Lang module.
 This module kind can present type index with Type Board alpha Index button
 like any Class Lang module.
 
-Browser Class Lang System get module list from Internet Uri.
-The System then execute entry module as declared in the network response at the Uri.
+Browser get module list from Internet Uri with Get http method.
+The browser Class Lang System then execute entry module as declared in the 
+network response at the Uri.
 Network response specify the module ref of the entry module.
 The execution is a web program.
 
@@ -50,5 +51,3 @@ Web program that has not shown any view frame, shown console by default.
 Web program main arg is from hash param in Uri.
 
 The Uri tool https protocol.
-
-Module list is get from the Uri with Get http method.
