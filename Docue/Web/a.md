@@ -50,4 +50,6 @@ Web program that has not shown any view frame, shown console by default.
 
 Web program main arg is from 1 query string param in Uri.
 
+Web program shown status in console inf it exit.
+
 The Uri tool https protocol.
