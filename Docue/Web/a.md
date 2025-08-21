@@ -1,6 +1,6 @@
 # Web
 
-Secane has web browser to execute web module.
+Web browser is for execute web module.
 
 Web browser plat is for module that has none source based interest to civil.
 
