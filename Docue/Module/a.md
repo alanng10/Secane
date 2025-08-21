@@ -21,11 +21,9 @@ Fold is fold page.
 
 Module Module is module page module list.
 
-The module in the list is not rem able.
-The storage permit for the module list is read only.
-The permit is not mod able.
-
 The module list is list as built in Module Module.
+
+The module in the list is not rem able except when is update.
 
 Secane has Single Lang module list avail for import.
 
