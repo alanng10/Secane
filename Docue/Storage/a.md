@@ -7,4 +7,4 @@ Secane Storage path is case sensitive.
 
 Secane Storage path is Utf-32 little endian without bom char list.
 
-Secane Storage path count practic is 1024.
+Secane Storage path count practic is 256.
