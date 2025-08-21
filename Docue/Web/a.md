@@ -47,7 +47,7 @@ Web program console alway view able.
 
 Web program that has not shown any view frame, shown console by default.
 
-Web program main arg is from param in Uri.
+Web program main arg is from hash param in Uri.
 
 The Uri tool https protocol.
 
