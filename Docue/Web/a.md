@@ -34,3 +34,4 @@ like any Class Lang module.
 
 Browser Class Lang System get module list from Internet Uri.
 The System then execute entry module as declared in the network response at the Uri.
+The execution is a web program.
