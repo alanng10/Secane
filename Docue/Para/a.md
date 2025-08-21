@@ -19,4 +19,4 @@ execute certain abstract and effect load execute certain abstract.
 
 Para tool worth is total tool worth of all module execute able by Secane.
 
-Module is Class Lang module, any binary execute able and web browser module.
+Module is Class Lang module and web browser module.
