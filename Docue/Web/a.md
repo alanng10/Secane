@@ -46,7 +46,7 @@ Web program alway has console.
 
 Web program alway has console out, err and inn.
 
-Web program console alway view able in program frame.
+Web program console alway is view able in program frame.
 
 Inf web program has not shown any view frame, its console is shown by default.
 
