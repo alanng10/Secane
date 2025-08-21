@@ -50,3 +50,5 @@ Web program that has not shown any view frame, shown console by default.
 Web program main arg is from param in Uri.
 
 The Uri tool https protocol.
+
+Module list is get from the Uri with Get http method.
