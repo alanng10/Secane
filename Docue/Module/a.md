@@ -26,3 +26,9 @@ The storage permit for the module list is read only.
 The permit is not mod able.
 
 The module list is list as built in Module Module.
+
+Secane has Single Lang module list avail.
+
+The list include:
+
+- Kernel module
