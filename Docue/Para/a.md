@@ -15,7 +15,7 @@ The base tool unit is
 1 human with only enough cloth and editor and termina and Class Lang require
 including USB port and no other tool tool 1 module tool
 that output what is written in a text file in console, with heap
-execute certain abstract and effect load execute certain abstract.
+execute certain class and effect load execute certain class.
 
 Para tool worth is total tool worth of all module execute able by Secane.
 
@@ -23,6 +23,6 @@ Module is Class Lang module.
 
 Module has source back interest to civil.
 
-Module has abstract.
+Module has class.
 
-Module has execute certain abstract.
+Module has execute certain class.
