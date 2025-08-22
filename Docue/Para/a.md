@@ -22,3 +22,5 @@ Para tool worth is total tool worth of all module execute able by Secane.
 Module is Class Lang module.
 
 Module has source back interest to civil.
+
+Module has execute certain abstract.
