@@ -2,7 +2,7 @@
 
 Web browser is for execute web module.
 
-Web browser plat is for module that has none source back interest to civil.
+Web browser plat is for module that has none source interest to civil.
 
 Web browser has Javascript system.
 
