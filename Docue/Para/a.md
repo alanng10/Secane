@@ -26,3 +26,7 @@ Module has source interest to civil.
 Module has class.
 
 Module has execute certain class.
+
+Module has class for civil.
+
+Module has execute certain class for civil.
