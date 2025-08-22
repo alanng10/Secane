@@ -23,4 +23,6 @@ Module is Class Lang module.
 
 Module has source back interest to civil.
 
+Module has abstract.
+
 Module has execute certain abstract.
