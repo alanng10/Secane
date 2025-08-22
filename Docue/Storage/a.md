@@ -10,3 +10,7 @@ Secane Storage path is Utf-32 little endian without bom char list.
 Secane Storage path count practic is 256.
 
 Secane Storage path absolute start with colon.
+
+Secane Storage unit is block.
+
+Block size is 64 kilo byte.
