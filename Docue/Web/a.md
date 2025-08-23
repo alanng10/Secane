@@ -12,6 +12,7 @@ The System is config with practic.
 Tool module list and dependent module list is avail
 to be import by module that is execute by the System.
 Those module list is entire same as get from Module Module.
+Those module list is 1 prechosen ver of each module name.
 
 Web browser program frame is for shown view that module shown in execution.
 
