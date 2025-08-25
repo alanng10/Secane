@@ -52,7 +52,7 @@ Web program alway has console out, err and inn.
 
 Web program console alway is view able in program frame.
 
-Inf web program has not shown any view frame, its console is shown by default.
+Inf web program has none view frame that is to be shown, its console is shown by default.
 
 Web program may shown more than 1 view frame.
 
