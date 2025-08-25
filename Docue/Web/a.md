@@ -56,7 +56,7 @@ Inf web program has none view frame that is to be shown, its console is shown by
 
 Web program may shown more than 1 view frame.
 
-Web program main arg is from 1 query string param in Uri.
+Web program entry class main arg is from 1 query string param in Uri.
 
 Web program shown status in console inf the program exit.
 Console is view able when it exit and after it exit.
