@@ -63,4 +63,7 @@ Console is view able when it exit and after it exit.
 
 Console is close inf the browser close the program frame.
 
+Web program can host network.
+The network port host is a virtual port that is implem by browser.
+
 The Uri tool https protocol.
