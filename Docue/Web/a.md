@@ -38,7 +38,7 @@ Class Lang module.
 This module kind can present type index with Type Board alpha Index button
 like any Class Lang module.
 
-Browser get module list from Internet Uri with the Uri protocol.
+Browser get module list from Internet Uri with the Uri proto.
 The browser Class Lang System then execute entry module as declared in the 
 network response at the Uri.
 Network response specify the module ref of the entry module.
@@ -67,7 +67,7 @@ Web program can host network.
 The network port host is a virtual port that is implem by browser.
 Web program need to ask for client permit before it can host network.
 
-The Uri tool https orn file protocol.
+The Uri tool https orn file proto.
 
 Web browser Class Lang System has not enough develop element,
 inf it has none console for module that is execute on the System.
