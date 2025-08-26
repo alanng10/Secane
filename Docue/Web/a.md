@@ -6,7 +6,7 @@ Web browser plat is for module that has none source interest to civil.
 
 Web browser has Javascript system.
 
-Javascript system require double precision floating point implem.
+Javascript system require double precision floating point inplane.
 
 Web browser has Class Lang System.
 The System is config with practic.
