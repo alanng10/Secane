@@ -9,6 +9,7 @@ Type for mobile is smaller scale Type Board.
 
 Secane require has Time.
 Time has event that is grain of 1 milli second.
+Time has current date that is grain of 1 milli second.
 Time has get current date with inn port and out port Compute operate only.
 
 Secane require has Video.
