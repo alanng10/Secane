@@ -6,8 +6,8 @@ Web browser plat is for module that has none source interest to civil.
 
 Web browser has Javascript system.
 
-Javascript system require double precision floating point inplone.
-The inplone is done with machane.
+Javascript system require double precision floating point implone.
+The implone is done with machane.
 
 Web browser has Class Lang System.
 The System is config with practic.
