@@ -11,3 +11,5 @@ Secane USB port is USB-A.
 Secane mobile has 1 port that dedicate to connect with USB hub.
 
 Secane USB port count practic is 256.
+
+The practic can be set in Secane kernel boot main arg.
