@@ -8,7 +8,7 @@ Para has produce, storage, comm, info, enjoy.
 
 Para has tool worth.
 
-Tool worth is quadratic of total abstract opacity,
+Tool worth is quadratic of total class opacity,
 relate to 1 base tool unit.
 
 The base tool unit is
