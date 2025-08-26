@@ -24,7 +24,7 @@ Web browser is inn with Type Board.
 Browser inn to trigg browser is with type index.
 
 For Javascript module,
-browser inn within program frame is implem with moving pointer cursor and
+browser inn within program frame is implone with moving pointer cursor and
 trigg pointer click and scroll with Type Board index that will trigg mouse event, 
 and with trigg keyboard input by Type Board index that will trigg
 keyboard event.
@@ -67,7 +67,7 @@ Console is view able when it exit and after it exit.
 Console is close inf the browser close the program frame.
 
 Web program can host network.
-The network port host is a virtual port that is implem by browser.
+The network port host is a virtual port that is implone by browser.
 Web program need to ask for client permit before it can host network.
 
 The Uri tool https orn file proto.
