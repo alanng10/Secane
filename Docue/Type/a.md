@@ -1,6 +1,6 @@
 # Type
 
-Program module implem funct for Type Board alpha button list.
+Program module implone funct for Type Board alpha button list.
 
 Type index has sign char type index that is not in Type Board.
 
