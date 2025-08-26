@@ -16,3 +16,6 @@ The operate kind include:
 - halt
 - end main
 - restart main
+
+Operate kind that set Compute current execute memory index
+is call execute certain.
