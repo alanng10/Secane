@@ -33,4 +33,14 @@ Module has execute certain class for civil.
 
 Module has source class for civil.
 
+Type has class.
+
+Time has class.
+
 Video has class.
+
+Audio has class.
+
+Storage has class.
+
+Network has class.
