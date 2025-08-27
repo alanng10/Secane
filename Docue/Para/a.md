@@ -4,7 +4,7 @@ Para is all cive with Secane.
 
 The word "para" is paradise park word.
 
-Para has produce, video, audio, storage, comm, info, enjoy.
+Para has produce, type, time, video, audio, storage, comm, info, enjoy.
 
 Para has tool worth.
 
