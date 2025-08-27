@@ -15,13 +15,13 @@ Time has get current date with inn port and out port Compute operate only.
 Secane require has Video.
 Video is flat plane.
 Video is 4096 width time 2304 hegth pixel.
-Video aspect ratio in dimen is same as aspect ratio in pixel.
+Video aspect ratio in dimend is same as aspect ratio in pixel.
 
-Video dimen width for desktop is 526.796 mm.
+Video dimend width for desktop is 526.796 mm.
 
-Video dimen width for laptop is 294.386 mm.
+Video dimend width for laptop is 294.386 mm.
 
-Video dimen width for mobile is 141.732 mm.
+Video dimend width for mobile is 141.732 mm.
 
 Secane require has Memory.
 Memory is 64 giga byte minimum.
