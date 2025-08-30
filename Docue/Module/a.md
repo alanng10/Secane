@@ -15,7 +15,7 @@ The list include:
 - Gallery
 - Date
 - Mail
-- Press
+- Archive
 
 Fold is fold page.
 
