@@ -10,4 +10,6 @@ Article has view image element.
 
 Article has module path element.
 
+Article has refer section element.
+
 Article is publish able.
