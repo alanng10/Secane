@@ -2,7 +2,7 @@
 
 Secane word has pronoun.
 
-Secane "Se" is pronoun as "si", same as "se" in "secure".
+Secane "Se" is pronoun same as "se" in "second".
 
 Secane "cane" is pronoun same as "cane" English pronoun.
 
