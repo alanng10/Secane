@@ -44,3 +44,5 @@ Audio has class.
 Storage has class.
 
 Network has class.
+
+Module that has none source interest to civil is none base cive.
