@@ -13,7 +13,7 @@ The list include:
 - Draw
 - Play
 - Gallery
-- Date
+- Time
 - Mail
 - Archive
 
