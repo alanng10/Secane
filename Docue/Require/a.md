@@ -23,6 +23,8 @@ Video dimend width for laptop is 294.386 mm.
 
 Video dimend width for mobile is 141.732 mm.
 
+Video update at 1000/54 milli second.
+
 Secane require has Memory.
 Memory is 64 giga byte minimum.
 
