@@ -19,3 +19,9 @@ The operate kind include:
 
 Operate kind that set Compute current execute memory index
 is call execute certain.
+
+Compute is single core.
+
+Compute is single machine core.
+
+Compute is single logical core.
