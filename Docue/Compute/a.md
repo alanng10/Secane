@@ -24,4 +24,4 @@ Compute is single core.
 
 Compute is single machine core.
 
-Compute is single logical core.
+Compute is single carrier core.
