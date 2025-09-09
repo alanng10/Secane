@@ -42,3 +42,5 @@ Network Internet send speed is 224 kilo byte per second minimum.
 
 Secane require has Audio.
 Audio has stereo.
+
+Secane require un liquid cool.
