@@ -20,6 +20,9 @@ The operate kind include:
 Operate kind that set Compute current execute memory index
 is call execute certain.
 
+Operate kind that end main and restart main is effect load
+execute certain.
+
 Compute is single core.
 
 Compute is single machine core.
