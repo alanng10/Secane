@@ -66,5 +66,5 @@ The spell is:
 "e" for effect.
 "c" for class kind.
 "a" for any class.
-"n" for each client.
-"e" for tool.
+"n" for never client.
+"e" for emit tool.
