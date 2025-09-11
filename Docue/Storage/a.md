@@ -20,3 +20,5 @@ Secane Storage not write when done read operate.
 Secane Storage not write storage node last access time.
 
 Secane Storage not write storage node time.
+
+Module can write time info in separate file when done storage read and write.
