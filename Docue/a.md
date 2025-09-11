@@ -67,4 +67,4 @@ The spell is:
 "c" for class kind.
 "a" for any class.
 "n" for never client.
-"e" for emit tool.
+"e" for elec tool.
