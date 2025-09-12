@@ -11,7 +11,7 @@ Secane Storage path count practic is 256.
 
 Secane Storage node name is Utf-8 little endian without bom char list.
 
-Secane Storage node name count practic is 256.
+Secane Storage node name count practic is 128.
 
 Secane Storage path absolute start with colon.
 
@@ -19,7 +19,7 @@ Secane Storage unit is block.
 
 Block size is 64 kilo byte.
 
-Secane Storage node block size in storage fold data is 512 byte.
+Secane Storage node block size in storage fold data is 256 byte.
 
 Secane Storage not write when done read operate.
 
