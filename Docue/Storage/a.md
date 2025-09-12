@@ -19,6 +19,8 @@ Secane Storage unit is block.
 
 Block size is 64 kilo byte.
 
+Secane Storage node block size in storage fold data is 512 byte.
+
 Secane Storage not write when done read operate.
 
 Secane Storage not write storage node last access time.
