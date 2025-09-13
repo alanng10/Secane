@@ -11,8 +11,8 @@ The operate kind include:
 - interen ret memory index move to
 - interen arg A move
 - interen arg B move
-- out port
-- inn port
+- out
+- inn
 - halt
 - end main
 - restart main
