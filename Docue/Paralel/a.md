@@ -9,6 +9,6 @@ per second.
 
 Paralel tool remain Memory.
 
-Paralel effect has call stack size practic config by module.
+Paralel effect has call stack size limitel config by module.
 
 Paralel Math operate is implone with Single Lang.
