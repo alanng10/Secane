@@ -10,7 +10,7 @@ Javascript system require double precision floating point implone.
 The implone is done with machane.
 
 Web browser has Class Lang System.
-The System is config with practic.
+The System is config with limitel.
 
 Tool module list and dependent module list is avail
 to be import by module that is execute by the System.
