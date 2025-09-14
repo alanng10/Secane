@@ -14,3 +14,5 @@ The config has wallpaper option.
 
 The config has style color option in Program module list view.
 The option only apply to Program module list and module that import it.
+
+Program module list import View module list.
