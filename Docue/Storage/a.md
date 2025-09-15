@@ -28,3 +28,7 @@ Secane Storage not write storage node last access time.
 Module can write last access time info in separate file when done storage read and write.
 
 Termina module list can be derive to write last access time when execute module.
+
+Secane not cache Storage data in Memory.
+
+Module can cache Storage data in Memory.
