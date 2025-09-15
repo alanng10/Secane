@@ -32,3 +32,5 @@ Termina module list can be derive to write last access time when execute module.
 Secane not cache Storage data in Memory.
 
 Module can cache Storage data in Memory.
+
+Secane reuse loaded binary data when execute binary more than 1 instant.
