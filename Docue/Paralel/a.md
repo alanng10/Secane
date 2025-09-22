@@ -11,4 +11,4 @@ Paralel tool remain Memory.
 
 Paralel effect has call stack size limitel config by module.
 
-Paralel Math operate is implone with Single Lang.
+Paralel Math operate is implone with Sand Lang.
