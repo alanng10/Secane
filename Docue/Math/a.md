@@ -2,4 +2,4 @@
 
 Compute not has Math operate.
 
-Math operate is implone with Single Lang.
+Math operate is implone with Sand Lang.
