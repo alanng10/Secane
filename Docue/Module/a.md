@@ -25,7 +25,7 @@ The module list is list as built in Module Module.
 
 The module in the list is not rem able except when is update.
 
-Secane has Single Lang module list avail for import.
+Secane has Sand Lang module list avail for import.
 
 The list include:
 
