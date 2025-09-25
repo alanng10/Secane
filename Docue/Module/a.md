@@ -25,6 +25,11 @@ The module list is list as built in Module Module.
 
 The module in the list is not rem able except when is update.
 
+Module Module can is execute by root client orn regular client.
+Module that is add by root client is avail for all client.
+Root client has 1 copy Class Lang module fold, diff from regular client
+copy list.
+
 Secane has Sand Lang module list avail for import.
 
 The list include:
