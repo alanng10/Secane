@@ -30,6 +30,8 @@ Module that is add by root client is avail for all client.
 Module that is add by root client can only rem by root client.
 Root client has 1 copy Class Lang module fold, diff from regular client
 copy list.
+Module that is add by root client depend on root client copy.
+Module that is add by regular client depend on the client copy.
 
 Secane has Sand Lang module list avail for import.
 
