@@ -33,6 +33,8 @@ copy list.
 Module that is add by root client depend on root client copy.
 Module that is add by regular client depend on the client copy.
 
+Diff client has diff page result.
+
 Secane has Sand Lang module list avail for import.
 
 The list include:
