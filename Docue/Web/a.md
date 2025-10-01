@@ -12,6 +12,9 @@ The implone is done with machane.
 Web browser has Class Lang System.
 The System is config with limitel.
 
+The System has module System.Thread class Phore to done thread sync, un diff
+from Class Lang defined by Alan Ng.
+
 Tool module list and dependent module list is avail
 to be import by module that is execute by the System.
 Those module list is entire same as get from Module Module.
