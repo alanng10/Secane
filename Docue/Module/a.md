@@ -12,7 +12,7 @@ The list include:
 - Calc
 - Draw
 - Play
-- Gallery
+- Gall
 - Time
 - Mail
 - Pine
