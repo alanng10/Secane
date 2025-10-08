@@ -15,6 +15,7 @@ The list include:
 - Gallery
 - Time
 - Mail
+- Pine
 - Archive
 
 Fold is fold page.
