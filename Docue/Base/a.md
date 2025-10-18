@@ -9,6 +9,8 @@ Base not include Home fold.
 
 Base is read only by all client.
 
+Base is un mod.
+
 Secane auth info is store in Home Root fold.
 
 Secane config info is store in Home client fold.
