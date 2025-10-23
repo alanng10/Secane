@@ -6,3 +6,4 @@ The Class Lang System Console Program can execute any
 binary execute able by Secane.
 
 Secane has Infra implone for Class Lang.
+The Infra is write in Sand Lang.
